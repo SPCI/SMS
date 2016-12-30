@@ -1,0 +1,18 @@
+{
+  allRegistered{
+    edges{
+      node{
+        id
+        regNum
+        student{
+          nextofkin{
+            surName
+            otherName
+            relationship
+            telephone
+          }
+        }
+      }
+    }
+  }
+}

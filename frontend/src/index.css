@@ -1,0 +1,6 @@
+body {
+    margin: 0;
+    font-family: 'roboto',sans-serif;
+    zoom: 0.8;
+    background: #FAFAFA url('./pattern.jpg') no-repeat fixed bottom right;
+}

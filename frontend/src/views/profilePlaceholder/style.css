@@ -1,0 +1,9 @@
+.placeholder{
+    text-align: center;
+    margin-top: 10px;
+}
+.img-placeholder{
+    width: 400px;
+    height: 550px;
+    border: dashed #d3d3d3;
+}
